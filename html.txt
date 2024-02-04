@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PORT FOLIO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #555;
+            padding: 0.5em 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 1em;
+        }
+
+        section {
+            padding: 2em;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<header>
+    <h1>SINCHANA K R</h1>
+</header>
+
+<nav>
+    <a href="#about">About Me</a>
+    <a href="#education">Education</a>
+    <a href="#projects">Projects</a>
+    <a href="#certifications">Certifications</a>
+    <a href="#activity">Activity Points </a>
+</nav>
+
+<body>
+    <section id="about">
+        <title>ABOUT ME</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f4f4f4;
+            }
+
+            header {
+                background-color: #333;
+                color: #fff;
+                text-align: center;
+                padding: 1em 0;
+            }
+
+            nav {
+                display: flex;
+                justify-content: center;
+                background-color: #555;
+                padding: 0.5em 0;
+            }
+
+            nav a {
+                color: #fff;
+                text-decoration: none;
+                margin: 0 1em;
+            }
+
+            section {
+                padding: 2em;
+                text-align: center;
+            }
+
+            .profile-photo {
+                border-radius: 50%;
+                max-width: 200px;
+                margin-bottom: 1em;
+            }
+
+            footer {
+                text-align: center;
+                padding: 1em 0;
+                background-color: #333;
+                color: #fff;
+            }
+        </style>
+        </head>
+
+        <body>
+
+            <header>
+                <h2>About me</h2>
+            </header>
+            <section>
+                <img src="https://onedrive.live.com/embed?resid=92ca002a19a0e907%21180&authkey=%21AIcB6bl_vE6cgZo&width=21 height = 2"
+                    alt="Profile Photo" class="profile-photo">
+                <p>Phone: 8618559985</p>
+                <p>Email: sinchukr2003@gmail.com</p>
+                <p>Address:S.S mutt khyatsandra,tumkuru ,572104</p>
+                <p>Currently studying in SIT</p>
+                <p>electronics and instrumnetation engineering -5th sem</p>
+            </section>
+
+    </section>
+
+    <section id="education">
+        <title>Your Name - Academic & Skills</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f4f4f4;
+            }
+
+            header {
+                background-color: #333;
+                color: #fff;
+                text-align: center;
+                padding: 1em 0;
+            }
+
+            nav {
+                display: flex;
+                justify-content: center;
+                background-color: #555;
+                padding: 0.5em 0;
+            }
+
+            nav a {
+                color: #fff;
+                text-decoration: none;
+                margin: 0 1em;
+            }
+
+            section {
+                padding: 2em;
+            }
+
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-bottom: 2em;
+            }
+
+            th,
+            td {
+                border: 1px solid #ddd;
+                padding: 8px;
+                text-align: left;
+            }
+
+            th {
+                background-color: #333;
+                color: #fff;
+            }
+
+            footer {
+                text-align: center;
+                padding: 1em 0;
+                background-color: #333;
+                color: #fff;
+            }
+        </style>
+        </head>
+
+        <body>
+
+            <section>
+                <div class="w3-half w3-indigo w3-container" style="min-height:800px">
+                    <div class="w3-padding-64 w3-center">
+                        <h2>EDUCATION</h2>
+
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Academic Year</th>
+                                    <th>Academic Institution</th>
+                                    <th>Percentage</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>2018-2019</td>
+                                    <td>SREE BASAVESHWARA PRIMARY SCHOOL(CBSE),TUMKURU</td>
+                                    <td>89%</td>
+                                </tr>
+                                <tr>
+                                    <td>2019-2021</td>
+                                    <td>NARAYAN PU COLLEGE,BANGALORE</td>
+                                    <td>95%</td>
+                                </tr>
+                                <tr>
+                                    <td>2021-2025</td>
+                                    <td>SIDDAGANGA INSTITUTE OF TEXHNOLOGY,TUMKURU (EIE)</td>
+                                    <td>currently 7.6 CGPA</td>
+                                </tr>
+
+                            </tbody>
+                        </table>
+                        <h1>Skills</h1>
+                        <h3>Soft Skills</h3>
+                        <p>1.C-PROGRAMMING BASICS</p>
+                        <p>2.PYTHON BASICS</p>
+                        <p>3.DBMS BASICS</p>
+                        <p>4.WEB DEVELOPMENT BASICS</p>
+                        <h3>Technical Skills</h3>
+                        <p>1.MATLAB.</p>
+                        <p>2.PCB DESIGNING.</p>
+                        <p>3.EMBEDDED SYSTEM-8051 MICROCONTROLLER.</p>
+                        <p>4.ARM CONTROLLER -LPC1768.</p>
+                        <h2>Hobbies</h2>
+                        <p>1. reading novel</p>
+                        <p>2. sports</p>
+                        <p>3. hiking</p>
+                        <p>4. reading news paper</p>
+
+            </section>
+            <section id="projects">
+                <title>Your Name - Projects</title>
+                <h2>Projects</h2>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        margin: 0;
+                        padding: 0;
+                        background-color: #f4f4f4;
+                    }
+
+                    header {
+                        background-color: #333;
+                        color: #fff;
+                        text-align: center;
+                        padding: 1em 0;
+                    }
+
+                    nav {
+                        display: flex;
+                        justify-content: center;
+                        background-color: #555;
+                        padding: 0.5em 0;
+                    }
+
+                    nav a {
+                        color: #fff;
+                        text-decoration: none;
+                        margin: 0 1em;
+                    }
+
+                    section {
+                        text-align: center;
+                        padding: 2em;
+                    }
+
+                    #loadingImage {
+                        display: none;
+                        margin: 2em auto;
+                    }
+
+                    ul {
+                        list-style-type: none;
+                        padding: 0;
+                    }
+
+                    li {
+                        margin: 1em 0;
+                    }
+
+                    footer {
+                        text-align: center;
+                        padding: 1em 0;
+                        background-color: #333;
+                        color: #fff;
+                    }
+                </style>
+                </head>
+
+                <body>
+
+                    <section>
+                        <img src="https://onedrive.live.com/embed?resid=92ca002a19a0e907%21656&authkey=%21AIiDpMY9L-7QFJw&width=259&height=194"
+                            alt="Loading">
+
+                        <ul id="projectsList">
+                            <li>Project 1:minor project</li>
+                            <li>Project 2: major project</li>
+                            <li>Project 3:Hospital management in institutions using DBMS</li>
+                        </ul>
+                    </section>
+
+            </section>
+
+            <section id="certifications">
+                <h2>Certifications</h2>
+                <title>Your Name - Certificates</title>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        margin: 0;
+                        padding: 0;
+                        background-color: #f4f4f4;
+                    }
+
+                    header {
+                        background-color: #333;
+                        color: #fff;
+                        text-align: center;
+                        padding: 1em 0;
+                    }
+
+                    nav {
+                        display: flex;
+                        justify-content: center;
+                        background-color: #555;
+                        padding: 0.5em 0;
+                    }
+
+                    nav a {
+                        color: #fff;
+                        text-decoration: none;
+                        margin: 0 1em;
+                    }
+
+                    section {
+                        padding: 2em;
+                    }
+
+                    form {
+                        margin-bottom: 2em;
+                    }
+
+                    input,
+                    button {
+                        margin-top: 1em;
+                    }
+
+                    footer {
+                        text-align: center;
+                        padding: 1em 0;
+                        background-color: #333;
+                        color: #fff;
+                    }
+                </style>
+                </head>
+
+                <body>
+                    <section>
+                        <h2>upload certificate</h2>
+                        <form action="#" method="post" enctype="multipart/form-data">
+                            <label for="certificateFile">Choose a certificate file:</label>
+                            <input type="file" id="certificateFile" name="certificateFile"
+                                accept=".pdf, .jpg, .jpeg, .png" required>
+
+                            <label for="certificateName">Name of Certification:</label>
+                            <input type="text" id="certificateName" name="certificateName" required>
+
+                            <button type="submit">Upload Certificate</button>
+                        </form>
+                    </section>
+
+
+            </section>
+
+            <section id="activity">
+                <h2>Activity Points </h2>
+                <title>Your Name - Activity Points</title>
+                <style>
+                    body {
+                        font-family: Arial, sans-serif;
+                        margin: 0;
+                        padding: 0;
+                        background-color: #f4f4f4;
+                    }
+
+                    header {
+                        background-color: #333;
+                        color: #fff;
+                        text-align: center;
+                        padding: 1em 0;
+                    }
+
+                    nav {
+                        display: flex;
+                        justify-content: center;
+                        background-color: #555;
+                        padding: 0.5em 0;
+                    }
+
+                    nav a {
+                        color: #fff;
+                        text-decoration: none;
+                        margin: 0 1em;
+                    }
+
+                    section {
+                        text-align: center;
+                        padding: 2em;
+                    }
+
+                    h2 {
+                        font-weight: bold;
+                    }
+
+                    form {
+                        margin-top: 2em;
+                    }
+
+                    input,
+                    button {
+                        margin-top: 1em;
+                    }
+
+                    footer {
+                        text-align: center;
+                        padding: 1em 0;
+                        background-color: #333;
+                        color: #fff;
+                    }
+                </style>
+                </head>
+
+                <body>
+
+            </section>
+        </body>
+        <h2>Activity Points</h2>
+
+        <form action="#" method="post" enctype="multipart/form-data">
+            <label for="activityCode">Upload Activity Point (PDF):</label>
+            <input type="file" id="activityCode" name="activityCode" accept=".pdf" required>
+
+            <button type="submit">Upload PDF</button>
+        </form>
+    </section>
+
+    <footer>
+
+        <body>
+
+
+
+            <footer>
+                <p>&copy; 2024 sinchana kr . All rights reserved.</p>
+            </footer>
+
+        </body>
+
+</html>
